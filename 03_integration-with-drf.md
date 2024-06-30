@@ -228,5 +228,3 @@ pip install django-crispy-forms
 - `BooleanFilter`は、小文字の`true/false`を受け付ける、APIフレンドリーな`BooleanWidget`を使用します。
 - フィルタ生成は、日時モデルフィールドで`IsoDateTimeFilter`を使用します。
 - 発生した`ValidationError`は、それらと等価なDRFの例外として再発生されます。
-
-
